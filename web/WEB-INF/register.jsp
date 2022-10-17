@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Shopping List</h1>
         
        <form action="shoppingList" method="post">
             <input type="hidden" name="action" value="register">
